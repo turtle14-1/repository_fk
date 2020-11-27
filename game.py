@@ -10,14 +10,10 @@ def play(nr_1, color):
 
     else:
         return("you did not find out the secret. \nagain!")
-    
-    
-    
-    
-
-
+        
 
 print("Let's play a game!")
+print("You have to guess two things...")
 nr_1 = input("Enter a number between 1 and 20: ")
 color = input("Enter a color: ")
 
